@@ -1,7 +1,18 @@
-![WaveGlow](waveglow_logo.png "WaveGLow")
-
 ## WaveGlow: a Flow-based Generative Network for Speech Synthesis
 
+LJSpeech
+- Sampling rate: 16000Hz
+- n_group: 8
+- batch_size: 1 (on Titan V 12GB)
+
+Korean Speech Data
+- total 30 Hours
+- Sampling rate: 16000Hz
+- n_group: 16
+- batch_size: 14 (on Tesla P40 24GB)
+
+
+* * *
 ### Ryan Prenger, Rafael Valle, and Bryan Catanzaro
 
 In our recent [paper], we propose WaveGlow: a flow-based network capable of
