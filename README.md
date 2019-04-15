@@ -96,7 +96,7 @@ path: `./models/`
 
 
 ## Inference Time
-Based on 'waveglow_old.pt', the average of the generation time with [10 melspectrogram files]((https://drive.google.com/file/d/1g_VXK2lpP9J25dQFhQwx7doWl_p20fXA/view?usp=sharing)(mean play time: 6s)
+Based on 'waveglow_old.pt', the average of the generation time with [10 melspectrogram files](https://drive.google.com/file/d/1g_VXK2lpP9J25dQFhQwx7doWl_p20fXA/view?usp=sharing)(mean play time: 6s)
 
 | GPU  | Time |
 | - | - |
