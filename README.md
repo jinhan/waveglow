@@ -107,7 +107,6 @@ Based on 'waveglow_old.pt', the average of the generation time with [10 melspect
 ## References
 - [paper]
 - [code] 
-- [samples]
 
 
 [code]: https://github.com/NVIDIA/waveglow
